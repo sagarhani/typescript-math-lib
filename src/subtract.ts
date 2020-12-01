@@ -1,5 +1,6 @@
 /**
  * Calculate the difference between two numbers
+ *
  * @param a - first number
  * @param b - second number
  *

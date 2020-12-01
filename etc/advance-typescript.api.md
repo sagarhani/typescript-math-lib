@@ -7,7 +7,7 @@
 // @public
 export function avg(a: number, b: number, c: number): number;
 
-// @public (undocumented)
+// @beta
 export function subtract(a: number, b: number): number;
 
 // Warning: (ae-internal-missing-underscore) The name "sum2" should be prefixed with an underscore because the declaration is marked as @internal

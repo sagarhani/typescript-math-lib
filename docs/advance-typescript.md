@@ -11,6 +11,6 @@ A small library for common math functions
 |  Function | Description |
 |  --- | --- |
 |  [avg(a, b, c)](./advance-typescript.avg.md) | Calculate the average of three numbers |
-|  [subtract(a, b)](./advance-typescript.subtract.md) |  |
+|  [subtract(a, b)](./advance-typescript.subtract.md) | <b><i>(BETA)</i></b> Calculate the difference between two numbers |
 |  [sum3(a, b, c)](./advance-typescript.sum3.md) | <b><i>(BETA)</i></b> Calculate the sum of three numbers |
 

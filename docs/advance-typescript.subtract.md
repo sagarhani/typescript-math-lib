@@ -4,6 +4,11 @@
 
 ## subtract() function
 
+> This API is provided as a preview for developers and may change based on feedback that we receive. Do not use this API in a production environment.
+> 
+
+Calculate the difference between two numbers
+
 <b>Signature:</b>
 
 ```typescript
@@ -14,8 +19,8 @@ export declare function subtract(a: number, b: number): number;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  a | number |  |
-|  b | number |  |
+|  a | number | first number |
+|  b | number | second number |
 
 <b>Returns:</b>
 
